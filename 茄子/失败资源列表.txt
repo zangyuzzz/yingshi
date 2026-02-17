@@ -1,0 +1,2 @@
+https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/plugin/html/金牌.py
+http://127.0.0.1:9978/file/TVBox/bili_cookie.txt
