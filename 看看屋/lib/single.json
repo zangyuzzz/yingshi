@@ -1,0 +1,89 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "关于",
+                "url": "",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg",
+                "version": " "
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "当前版本",
+                "url": "",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png",
+                "version": ""
+            },
+            {
+                "name": "点击下载",
+                "url": "https://github.dpik.top/https://raw.githubusercontent.com/PizazzGY/NewTVBox/refs/heads/main/local/单线路.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "备用线路(一)",
+                "url": "https://gh.nxnow.top/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/local/单线路.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "备用线路(二)",
+                "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/local/单线路.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "备用线路(三)",
+                "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/local/单线路.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "备用线路(四)",
+                "url": "https://hub.glowp.xyz/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/local/单线路.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            },
+            {
+                "name": "备用线路(五)",
+                "url": "https://gh.catmak.name/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/local/单线路.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png/webp",
+                "version": "version"
+            }
+        ]
+    },
+    {
+        "name": "Fongmi影视",
+        "list": [
+            {
+                "name": "手机端(64位)",
+                "url": "https://github.dpik.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "Fongmi"
+            },
+            {
+                "name": "手机端(32位)",
+                "url": "https://github.dpik.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "Fongmi"
+            },
+            {
+                "name": "电视端(64位)",
+                "url": "https://github.dpik.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64_v8a.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "Fongmi"
+            },
+            {
+                "name": "电视端(32位)",
+                "url": "https://github.dpik.top/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
+                "version": "Fongmi"
+            }
+        ]
+    }
+]
