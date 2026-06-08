@@ -1,39 +1,39 @@
 {
-  "spider": ".ouge.php"   “。/ lib / kjtw3.txt","spider": "./lib/kjtw3.txt",   "spider"
-  "wallpaper": "http://bobohome.ignorelist.com:20247/bing"“http://bobohome.ignorelist.com: 20247 / bing","wallpaper": "http://bobohome.ignorelist.com:20247/bing",   "wallpaper"
-  "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
-     "lives": ["lives"   "lives": [
+  "spider": "./ouge.php"   “。/ lib / kjtw3.txt","spider": "./lib/kjtw3.txt",   "spider""spider"   "spider": ".ouge.php"   “。/ lib / kjtw3.txt","spider"   "spider": "./lib/kjtw3.txt",   "spider"   "spider"
+  "wallpaper": "http://bobohome.ignorelist.com:20247/bing"“http://bobohome.ignorelist.com: 20247 / bing"“http://bobohome.ignorelist.com: 20247 / bing","wallpaper"   "wallpaper": "http://bobohome.ignorelist.com:20247/bing"“http://bobohome.ignorelist.com: 20247 / bing",   "wallpaper""wallpaper"   "wallpaper": "http://bobohome.ignorelist.com:20247“http://bobohome.ignorelist.com: 20247 / bing"/bing"“http://bobohome.ignorelist.com: 20247 / bing"“http://bobohome.ignorelist.com:    "wallpaper"20247 / bing","wallpaper"   "wallpaper": "http://bobohome.ignorelist.com:20247“http://bobohome.ignorelist.com: 20247 / bing"/bing",   "wallpaper"   "wallpaper"
+     "wallpaper"   " warningText""warningText"   " warningText":    "wallpaper""仅作学习交流测试使用，配置或下载后请于24小时之内删除",
+     "lives": ["lives"   "lives"   "lives": ["lives"   "lives"   "lives": ["lives"   "lives"   "lives": [
     {
-      "name": "平台直播",
-         "type": 0,"type"   "type": 0,
-      "url": "./lib/xinzb.txt"   “。/ lib / xinzb.txt","url": "./lib/xinzb.txt",
-         “playerType": 1"playerType": 1
+      "name"   "name": "平台直播",
+         "type"   "type": 0,"type"   "type"   "type"   "type": 0,"type"   "type"   "type"   "type": 0,"type"   "type"   "type"   "type": 0,
+      "url"   "url": "./lib/xinzb.txt"   “。/ lib / xinzb.txt","url": "./lib/xinzb.txt","url"   "url": "./lib/xinzb.txt"   “。/ lib / xinzb.txt"   “。/ lib / xinzb.txt","url": "./lib/xinzb.txt",
+         “playerType“ playerType ”： 1": 1"playerType": 1
     },
     {
-         "name": "港澳台","name"   "name": "港澳台",
-         "type": 0,"type"   "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk","url"   "url": "http://rihou.cc:567/gggg.nzk",
-         “playerType": 1"playerType": 1
+         "name"   "name": "港澳台","name"   "name"   "name": "港澳台","name"   "name"   "name": "港澳台","name"   "name"   "name": "港澳台",
+         "type": 0,"type"   "type"   "type": 0,"type"   "type"   "type": 0,"type"   "type"   "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk"“http://rihou.cc: 567 / gggg.nzk","url"   "url": "http://rihou.cc:567“http://rihou.cc: 567 / gggg.nzk"/gggg.nzk","url"   "url"   "url": "http://rihou.cc:   "url"567/gggg.nzk"“http://rihou.cc: 567   "url" / gggg.nzk","url"   "url": "http://rihou.cc:567“http://rihou.cc: 567 / gggg.nzk"/gggg.nzk",   "url"   "url"
+         “playerType": 1"playerType": “ playerType ”： 11
     }
   ],
-     "sites": ["sites": [
+        "sites": ["sites"   "sites": ["sites"   "sites"   "sites":    "sites"["sites"   "sites"   "sites": [
     {
-         "key": "drpy_js_豆瓣","key": "drpy_js_豆瓣",
-      "name"   "name"   "name"   "name"   "name"   "name": "公众号【茄子库】防失联",
-         "type": 3,"type"   "type"   "type"   "type"   "type"   "type"   "type": 3,
-         "api": "csp_Douban""api": "csp_Douban"
+         "key"   "key"   "key": "drpy_js_豆瓣"   "drpy_js_豆瓣"   "drpy_js_豆瓣","key"   "key"   "key": "drpy_js_豆瓣"   "drpy_js_豆瓣"   "drpy_js_豆瓣",
+      "name"   "name"   "name"   "name"   "name"   "name"   "name"   "name": "公众号【茄子库】防失联","name"   "name"   "name"   "name"   "name"   "name"   "name"   "name"   "name": "公众号【茄子库】防失联",
+         "type"   "type"   "type"   "type": 3,"type"   "type"   "type"   "type"   "type"   "type"   "type"   "type"   "type"   "type": 3,
+         "api"   "api"   "api": "csp_Douban"   "csp_Douban"      "api""csp_Douban""api":    "api""csp_Douban"   "csp_Douban"   "csp_Douban""api"   "api": "csp_Douban"   "csp_Douban""api": "csp_Douban"   "csp_Douban"   "api"
     },
     {
-      "key": "配置中心",
-      "name": "❤配置┃中心",
-         "type": 3,"type"   "type": 3,
-         "api": "csp_Config","api": "csp_Config",
-         "searchable": 0,"searchable": 0,
+      "key"   "key": "配置中心",
+      "name"   "name": "❤配置┃中心",
+         "type": 3,"type"   "type"   "type": 3,"type"   "type"   "type": 3,"type"   "type"   "type": 3,
+         "api": "csp_Config"   "csp_Config","api"   "api": "csp_Config"   "csp_Config","api"   "api"   "api": "csp_Config"   "csp_Config","api"   "api": "csp_Config"   "csp_Config",
+         "searchable": 0,"searchable"   "searchable": 0,"searchable"   "searchable"   "searchable": 0,"searchable"   "searchable": 0,
          “changeable": 0,"changeable": 0,
-         "indexs": 0,"indexs": 0,
-         "style": {"style": {
-           "type": "rect","type"   "type": "rect",
-           "ratio": 1.597"ratio": 1.597
+         "indexs"   "indexs": 0,"indexs"   "indexs": 0,
+         "style"   "style": {"style"   "style": {
+           "type"   "type": "rect"   "rect","type"   "type"   "type": "rect"   "rect",
+           "ratio"   "ratio": 1.597"ratio"   "ratio": 1.597
       }
     },
     {
