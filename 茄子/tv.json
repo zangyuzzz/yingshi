@@ -1,45 +1,45 @@
 {
-  "spider": "./lib/kjtw3.txt",
-  "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+  "spider": ".ouge.php"   “。/ lib / kjtw3.txt","spider": "./lib/kjtw3.txt",   "spider"
+  "wallpaper": "http://bobohome.ignorelist.com:20247/bing"“http://bobohome.ignorelist.com: 20247 / bing","wallpaper": "http://bobohome.ignorelist.com:20247/bing",   "wallpaper"
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
-  "lives": [
+     "lives": ["lives"   "lives": [
     {
       "name": "平台直播",
-      "type": 0,
-      "url": "./lib/xinzb.txt",
-      "playerType": 1
+         "type": 0,"type"   "type": 0,
+      "url": "./lib/xinzb.txt"   “。/ lib / xinzb.txt","url": "./lib/xinzb.txt",
+         “playerType": 1"playerType": 1
     },
     {
-      "name": "港澳台",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 1
+         "name": "港澳台","name"   "name": "港澳台",
+         "type": 0,"type"   "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk","url"   "url": "http://rihou.cc:567/gggg.nzk",
+         “playerType": 1"playerType": 1
     }
   ],
-  "sites": [
+     "sites": ["sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "公众号【茄子库】防失联",
-      "type": 3,
-      "api": "csp_Douban"
+         "key": "drpy_js_豆瓣","key": "drpy_js_豆瓣",
+      "name"   "name"   "name"   "name"   "name"   "name": "公众号【茄子库】防失联",
+         "type": 3,"type"   "type"   "type"   "type"   "type"   "type"   "type": 3,
+         "api": "csp_Douban""api": "csp_Douban"
     },
     {
       "key": "配置中心",
       "name": "❤配置┃中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
+         "type": 3,"type"   "type": 3,
+         "api": "csp_Config","api": "csp_Config",
+         "searchable": 0,"searchable": 0,
+         “changeable": 0,"changeable": 0,
+         "indexs": 0,"indexs": 0,
+         "style": {"style": {
+           "type": "rect","type"   "type": "rect",
+           "ratio": 1.597"ratio": 1.597
       }
     },
     {
       "key": "木偶",
       "name": "💖木偶┃4K",
-      "type": 3,
+         "type": 3,"type"   "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
@@ -50,7 +50,7 @@
     {
       "key": "二小",
       "name": "👽玩偶┃4K弹幕",
-      "type": 3,
+         "type": 3,"type"   "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
