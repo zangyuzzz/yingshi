@@ -1,0 +1,17 @@
+https://gitee.com/zhikews/zhikews/raw/master/lib/drpy2.min.js
+http://210.16.160.81:1122/lib/腾讯视频.js
+https://gitee.com/aliluya1203/TVBox/raw/main/JS/drpy2.min.js
+https://gitee.com/aliluya1203/TVBox/raw/main/JS/芒果视频.js
+https://gitee.com/aliluya1203/TVBox/raw/main/JS/腾讯视频.js
+https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js
+https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/爱奇艺.js
+https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js
+https://gitee.com:443/yuan301/tv/raw/master/A/qj071.jar
+https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/可可影视.json
+https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/剧圈圈.json
+https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/樱花动漫.json
+http://127.0.0.1:9978/file/TVBox/youtubecookie.json
+http://127.0.0.1:9978/file/TVBox/peizhi.json
+https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js
+https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js
+https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js
